@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<usb-accessory manufacturer="Manufacturer" model="Model" version="Version"/>-->
+    <usb-accessory manufacturer="Manufacturer" model="Model" description="Description" version="1.0" URI="http://example.com" serial="0000000012345678"/>
+</resources>
